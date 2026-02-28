@@ -1,5 +1,6 @@
 #🛒 Retail Sales Analysis
 January 25, 2026
+
 📌 Project Overview
 Database Name: p1_retail_db
 
